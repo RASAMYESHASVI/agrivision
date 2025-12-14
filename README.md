@@ -39,3 +39,7 @@ This project requires a trained model checkpoint (`model_epoch_38.pth`) and voca
 - Place these files in the root directory.
 - `vocab.json` is included in this repository.
 - `model_epoch_38.pth` must be downloaded from Hugging Face (see Deployment Guide).
+
+### Project Report
+The detailed project report is available as `AGRICISON.docx` in this repository.
+
