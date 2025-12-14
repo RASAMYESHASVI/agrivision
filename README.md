@@ -43,3 +43,6 @@ This project requires a trained model checkpoint (`model_epoch_38.pth`) and voca
 ### Project Report
 The detailed project report is available as `AGRICISON.docx` in this repository.
 
+### Dataset
+The dataset used in this project is sourced from publicly available plant disease datasets such as:
+- PlantVillage Dataset: https://huggingface.co/datasets/SyedNazmusSakib/PlantVillageVQA/tree/main
